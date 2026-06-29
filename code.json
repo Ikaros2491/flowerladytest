@@ -1,0 +1,135 @@
+{
+  "name": "Xtok",
+  "identifier": "com.xtok.source",
+  "subtitle": "Adult Video Feed from X",
+  "description": "Xtok is an adult entertainment app that curates trending video content from X (Twitter) in a seamless, vertical scroll format. For users 17+ only.",
+  "iconURL": "https://xtok-altstore.pages.dev/icon.png",
+  "headerURL": "https://xtok-altstore.pages.dev/icon.png",
+  "tintColor": "#1DA1F2",
+  "website": "https://xtok-support.pages.dev",
+  "featuredApps": [
+    "app.video.feed"
+  ],
+  "apps": [
+    {
+      "name": "Xtok",
+      "bundleIdentifier": "app.video.feed",
+      "developerName": "Independent Developer",
+      "subtitle": "Adult Video Feed from X",
+      "localizedDescription": "âš ï¸ ADULTS ONLY (17+)\nThis app contains mature content intended for adult audiences only.\n\nXtok is a video feed app that displays trending videos from X (Twitter) in a vertical scroll format.\n\nFeatures:\nâ€¢ Vertical video feed with smooth scrolling\nâ€¢ Double-tap to skip 10 seconds\nâ€¢ Download videos locally\nâ€¢ Full-screen video playback\nâ€¢ Privacy-focused design\nâ€¢ Age verification on first launch\nâ€¢ Optional passcode lock",
+      "iconURL": "https://xtok-altstore.pages.dev/icon.png",
+      "tintColor": "#1DA1F2",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "3.0.1",
+          "buildVersion": "3",
+          "marketingVersion": "3.0.1",
+          "date": "2026-05-22",
+          "size": 2411779,
+          "localizedDescription": "å‹•ç”»ã®å†ç”Ÿé–‹å§‹ã‚’é«˜é€ŸåŒ–ã—ã€å…ˆèª­ã¿å‡¦ç†ã‚’æ”¹å–„ã—ã¾ã—ãŸã€‚ä¸‹éƒ¨ãƒŠãƒ“ã‚²ãƒ¼ã‚·ãƒ§ãƒ³ã®ã‚¢ã‚¤ã‚³ãƒ³ã¨ãƒ€ãƒ¼ã‚¯ãƒ¢ãƒ¼ãƒ‰è¡¨ç¤ºã‚’èª¿æ•´ã—ã€å‰Šé™¤æ¸ˆã¿ãªã©å†ç”Ÿã§ããªã„å‹•ç”»ãŒãƒ•ã‚£ãƒ¼ãƒ‰ã«å‡ºã«ãã„ã‚ˆã†æ”¹å–„ã—ã¾ã—ãŸã€‚",
+          "downloadURL": "https://xtok-altstore.pages.dev/adp-v301/manifest.json",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.0.0",
+          "buildVersion": "2",
+          "marketingVersion": "3.0.0",
+          "date": "2026-04-07",
+          "size": 2395135,
+          "localizedDescription": "ãƒ»ç´°ã‹ãªãƒã‚°ã®ä¿®æ­£\nãƒ»ãƒ¬ã‚³ãƒ¡ãƒ³ãƒ‰ã‚·ã‚¹ãƒ†ãƒ ã®å°Žå…¥",
+          "downloadURL": "https://xtok-altstore.pages.dev/adp-v300/manifest.json",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "2.0.0",
+          "buildVersion": "1",
+          "marketingVersion": "2.0.0",
+          "date": "2026-03-24",
+          "size": 2303540,
+          "localizedDescription": "Version 2.0 Update:\nâ€¢ Share Extension â€” import videos directly from X (Twitter)\nâ€¢ Save videos via iOS Share Sheet\nâ€¢ Bug fixes and performance improvements",
+          "downloadURL": "https://xtok-altstore.pages.dev/adp-v2/manifest.json",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.1",
+          "buildVersion": "3",
+          "marketingVersion": "1.0.1",
+          "date": "2026-01-13",
+          "size": 1745583,
+          "localizedDescription": "Update Includes:\nâ€¢ Added 'Copy Video ID' menu\nâ€¢ Added Report feature in Settings\nâ€¢ Removed 'PR' badge from ads\nâ€¢ Fixed ad click issues in Browse/Liked tabs\nâ€¢ Dynamic version display",
+          "downloadURL": "https://xtok-altstore.pages.dev/adp/manifest.json",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0",
+          "buildVersion": "3",
+          "marketingVersion": "1.0",
+          "date": "2026-01-08",
+          "size": 1713229,
+          "localizedDescription": "Initial release:\nâ€¢ Vertical video feed\nâ€¢ Download videos locally\nâ€¢ Full-screen playback\nâ€¢ Privacy lock screen\nâ€¢ Age verification",
+          "downloadURL": "https://xtok-altstore.pages.dev/adp/manifest.json",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "Save videos to your camera roll"
+        }
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "Xtok 3.0.1 Update",
+      "identifier": "xtok-3.0.1-update",
+      "caption": "å‹•ç”»ã®å†ç”Ÿé–‹å§‹ã‚’é«˜é€ŸåŒ–ã—ã€å…ˆèª­ã¿å‡¦ç†ã‚’æ”¹å–„ã—ã¾ã—ãŸã€‚ä¸‹éƒ¨ãƒŠãƒ“ã‚²ãƒ¼ã‚·ãƒ§ãƒ³ã®ã‚¢ã‚¤ã‚³ãƒ³ã¨ãƒ€ãƒ¼ã‚¯ãƒ¢ãƒ¼ãƒ‰è¡¨ç¤ºã‚’èª¿æ•´ã—ã€å‰Šé™¤æ¸ˆã¿ãªã©å†ç”Ÿã§ããªã„å‹•ç”»ãŒãƒ•ã‚£ãƒ¼ãƒ‰ã«å‡ºã«ãã„ã‚ˆã†",
+      "date": "2026-05-22",
+      "tintColor": "#1DA1F2",
+      "imageURL": "https://xtok-altstore.pages.dev/icon.png",
+      "notify": true,
+      "appID": "app.video.feed"
+    },
+    {
+      "title": "XTok 3.0.0 Update",
+      "identifier": "xtok-3.0.0-update",
+      "caption": "ãƒ»ç´°ã‹ãªãƒã‚°ã®ä¿®æ­£\nãƒ»ãƒ¬ã‚³ãƒ¡ãƒ³ãƒ‰ã‚·ã‚¹ãƒ†ãƒ ã®å°Žå…¥",
+      "date": "2026-04-07",
+      "tintColor": "#1DA1F2",
+      "imageURL": "https://xtok-altstore.pages.dev/icon.png",
+      "notify": true,
+      "appID": "app.video.feed"
+    },
+    {
+      "title": "Xtok 2.0 Update",
+      "identifier": "xtok-2.0.0-update",
+      "caption": "Share Extension: import videos directly from X.",
+      "date": "2026-03-24",
+      "tintColor": "#1DA1F2",
+      "imageURL": "https://xtok-altstore.pages.dev/icon.png",
+      "notify": true,
+      "appID": "app.video.feed"
+    },
+    {
+      "title": "Xtok 1.0.1 Update",
+      "identifier": "xtok-1.0.1-update",
+      "caption": "New features: Copy ID, Reporting, and UI improvements.",
+      "date": "2026-01-13",
+      "tintColor": "#1DA1F2",
+      "imageURL": "https://xtok-altstore.pages.dev/icon.png",
+      "notify": true,
+      "appID": "app.video.feed"
+    },
+    {
+      "title": "Xtok 1.0 Released!",
+      "identifier": "xtok-1.0-release",
+      "caption": "The first version of Xtok is now available for AltStore PAL.",
+      "date": "2026-01-08",
+      "tintColor": "#1DA1F2",
+      "imageURL": "https://xtok-altstore.pages.dev/icon.png",
+      "notify": true,
+      "appID": "app.video.feed"
+    }
+  ]
+}
